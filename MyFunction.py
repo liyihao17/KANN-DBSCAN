@@ -106,7 +106,7 @@ def returnMinptsCandidate(DistMatrix,EpsCandidate):
 
 def returnClusterNumberList(dataset,EpsCandidate,MinptsCandidate):
     """
-    计算聚类后的类别数目
+    计算聚类后的类别数目 
     :param dataset: 数据集
     :param EpsCandidate: Eps候选列表
     :param MinptsCandidate: Minpts候选列表
